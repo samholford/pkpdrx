@@ -1,0 +1,197 @@
+BODY {
+
+  background: #FFFFFF;
+
+  color: #000000;
+
+  margin: 5px;
+
+}
+
+
+
+A {
+
+  color: #000000;
+
+  text-decoration: underline;
+
+}
+
+
+
+A:hover {
+
+  color: #000000;
+
+  text-decoration: underline;
+
+}
+
+
+
+TR.footer {
+
+  background: #6DA0E5;
+
+}
+
+
+
+TD.footer {
+
+  font-family: Verdana, Arial, sans-serif;
+
+  font-size: 10px;
+
+  background: #6DA0E5;
+
+  color: #ffffff;
+
+  font-weight: bold;
+
+}
+
+
+
+TD.pageHeading {
+
+  font-family: Verdana, Arial, sans-serif;
+
+  font-size: 18px;
+
+  color: #006600;
+
+}
+
+
+
+TD.mainTEXT {
+
+  font-family: Verdana, Arial, sans-serif;
+
+  font-size: 11px;
+
+  line-height: 1.1;
+
+  color: #ffffff;
+
+}
+
+
+
+TD.indexLINKS {
+
+  font-family: Verdana, Arial, sans-serif;
+
+  font-size: 12px;
+
+  line-height: 1.8;
+
+  color: #ffffff;
+
+}
+
+
+
+TD.mainTEXTblack {
+
+  font-family: Verdana, Arial, sans-serif;
+
+  font-size: 11px;
+
+  line-height: 1.1;
+
+  color: #000000;
+
+}
+
+
+
+TD.downloadTEXT {
+
+  font-family: Verdana, Arial, sans-serif;
+
+  font-size: 11px;
+
+  line-height: 1.1;
+
+  color: #000099;
+
+}
+
+
+
+TD.mainSUBHEADING {
+
+  font-family: Verdana, Arial, sans-serif;
+
+  font-size: 11px;
+
+  line-height: 1.5;
+
+  font-weight: bold;
+
+  color: #ffffff;
+
+}
+
+
+
+TD.mainSUBHEADINGblack {
+
+  font-family: Verdana, Arial, sans-serif;
+
+  font-size: 11px;
+
+  line-height: 1.5;
+
+  font-weight: bold;
+
+  color: #000000;
+
+}
+
+
+
+
+
+TD.updateDATE {
+
+  font-family: Verdana, Arial, sans-serif;
+
+  font-size: 11px;
+
+  line-height: 1.5;
+
+  color: #FF9900;
+
+}
+
+
+
+TD.copyrightTEXT {
+
+  font-family: Verdana, Arial, sans-serif;
+
+  font-size: 10px;
+
+  line-height: 1.5;
+
+  color: #FFFFFF;
+
+}
+
+
+
+TD.copyrightTEXTblk {
+
+  font-family: Verdana, Arial, sans-serif;
+
+  font-size: 10px;
+
+  line-height: 1.5;
+
+  color: #000000;
+
+}
