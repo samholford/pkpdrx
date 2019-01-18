@@ -29,6 +29,15 @@ A:hover {
 }
 
 
+p.logo {
+	font-family: 'Share Tech Mono', monospace;
+	font-size: 80px;
+	text-align: center;
+	padding-top: 30px;
+	color: #FFF;
+}
+
+
 
 TR.footer {
 
